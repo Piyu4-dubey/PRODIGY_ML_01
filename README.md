@@ -13,10 +13,7 @@ Visualization: Plots correlations and regression trends using Matplotlib & Seabo
 Python (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn)
 Google Colab for model development
 
-🔧 Installation
-git clone https://github.com/yourusername/PRODIGY_ML_01.git
-cd PRODIGY_ML_01
-pip install -r requirements.txt
+
 
 📂 Usage
 Load the dataset (data/house_prices.csv).
